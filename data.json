@@ -1,0 +1,48 @@
+{
+	"data":[
+		{
+			"id":1,
+			"name":"SOUMYA",
+			"email":"soumyasreesr@gmail.com",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"svit college",
+					"data":["73%","2016-20"]
+				},
+				{
+					"degree":"Intermediate",
+					"institute":"Narayana junior college",
+					"data":["90%","2014-2016"]
+				},
+				{
+					"degree":"SSC",
+					"institute":"Keshava Reddy high school",
+					"data":["90%","2013-2014"]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"PRASANNA",
+			"email":"soumyasreesr@gmail.com",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"svit college",
+					"data":["73%","2016-20"]
+				},
+				{
+					"degree":"Intermediate",
+					"institute":" Narayana junior college",
+					"data":["90%","2014-2016"]
+				},
+				{
+					"degree":"SSC",
+					"institute":"Keshava Reddy high school",
+					"data":["90%","2013-2014"]
+				}
+			]
+		}
+	]
+}
